@@ -1,7 +1,3 @@
-
-* text=auto
-# Repülőjegy foglalási rendszer Python kód
-
 from abc import ABC, abstractmethod
 import datetime
 
